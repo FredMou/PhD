@@ -24,6 +24,16 @@ TCGA: The Cancer Genome Atlas; PRAD: prostate adenocarcinoma; ID: event identifi
 
 ## Supplementary Table 16
 
+**rMATS results for PRJEB2449 cohort.**
+
+
+
+
+
+
+
+
+(a) A summary of the total number of events, significant annotated splicing events, and their associated parent genes as identified using rMATS in the PRJEB2449 dataset. rMATS: Replicate Multivariate Analysis of Transcript Splicing. (b) rMATS output for significant alternative 3' splice site (A3SS) events. rMATS: Replicate Multivariate Analysis of Transcript Splicing. (c) rMATS output for significant alternative 5' splice site (A5SS) events. rMATS: Replicate Multivariate Analysis of Transcript Splicing. (d) rMATS output for significant mutually exclusive exons (MXE) events. rMATS: Replicate Multivariate Analysis of Transcript Splicing. (e) rMATS output for significant retained intron (RI) events. rMATS: Replicate Multivariate Analysis of Transcript Splicing. (f) rMATS output for significant skipped exon (SE) events. rMATS: Replicate Multivariate Analysis of Transcript Splicing.
 
 
 
@@ -31,12 +41,18 @@ TCGA: The Cancer Genome Atlas; PRAD: prostate adenocarcinoma; ID: event identifi
 ## Supplementary Table 17
 
 
+**Overlapping events among the cohorts.**
+
+(a) Overlapping differentially expressed alternative spicing events between the Clariom D and TCGA-PRAD datasets. TCGA: The Cancer Genome Atlas; PRAD: prostate adenocarcinoma. (b) Overlapping differentially expressed alternative spicing events between the Clariom D and PRJEB2449 datasets. (c) Overlapping differentially expressed alternative spicing events across the Clariom D, TCGA-PRAD and PRJEB2449 datasets. TCGA: The Cancer Genome Atlas; PRAD: prostate adenocarcinoma. (d) Overlapping differentially expressed alternative spicing events observed between the TCGA-PRAD and PRJEB2449 datasets. TCGA: The Cancer Genome Atlas; PRAD: prostate adenocarcinoma.
 
 
 
 ## Supplementary Table 18
 
 
+**Differentially expressed splicing factors and prognostic alternative splicing events.**
+
+(a) Results of the differential gene expression analysis of the splicing factors in the TCCGA-PRAD dataset. TCGA: The Cancer Genome Atlas; PRAD: prostate adenocarcinoma; logFC: log2 transformed fold change; AveExpr: average expression (log2-transformed) for the gene over all samples; t: moderared t-statistic; P.Value: raw p-value; adj.P.Val:adjusted p-value using Benjamini-Hochberg (BH) approach; B: log-odds. (b) Results of the univariate Cox regression analysis of the biochemical recurrence-free survival (BCRFS)-associated events in the TCGA-PRAD datasets. TCGA: The Cancer Genome Atlas; PRAD: prostate adenocarcinoma; z: the values of the Wald statistic; HR: hazard ratio of the event; HR.95L: the lower limit of 95% confidence interval; HR.95H: the upper limit of the 95% confidence interval; p: p-values obtained from the likelihood ratio test.
 
 
 
