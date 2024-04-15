@@ -1,2 +1,47 @@
-# Supplementary Tables for Chapter 5 of PhD thesis
-## Supplementary Table 
+# Supplementary Tables for Chapter 4 of PhD thesis
+
+
+
+## Supplementary Table 13
+
+
+
+
+
+## Supplementary Table 14
+
+
+
+
+
+## Supplementary Table 15
+
+
+
+
+## Supplementary Table 16
+
+
+
+
+
+## Supplementary Table 17
+
+
+
+
+
+## Supplementary Table 18
+
+
+
+
+
+
+## Supplementary Table 19
+
+
+
+
+
+## Supplementary Table 20
